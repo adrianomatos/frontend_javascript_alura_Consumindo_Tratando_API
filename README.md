@@ -1,6 +1,9 @@
 # JavaScript: consumindo e tratando dados de uma API
 (Identificar como funciona o fluxo de eventos do JS, compreender como consumir uma API, tratar dados retornados de API, manipular elementos através de interação do usuário)
-- Link no GitHub Pages:
+
+Link no GitHub Pages: https://adrianomatos.github.io/frontend_javascript_alura_Consumindo_Tratando_API/
+  
+<img src="https://github.com/adrianomatos/frontend_javascript_alura_Consumindo_Tratando_API/blob/main/Tratamento%20de%20API%20ViaCEP.png" alt="Print do Projeto">
 
 ## APRENDEMOS AQUI
 
